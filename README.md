@@ -2,7 +2,7 @@
 
 Copyright 2017. Jones, S.K., Wood, S.R., Johnson, J.A., and Declerck, F.A. 2017. 
 
-The MESH-SDG tool is designed to illustrate how changes in ecosystem services under alternative land use land cover conditions could impact on progress towards the United Nation’s 2015-2030 Sustainable Development Goals (SDG).  It is designed primarily for use with the MESH modelling tool. 
+The MESH-SDG tool is designed to illustrate how changes in ecosystem services under alternative land use land cover conditions could impact on progress towards the United Nation’s 2015-2030 Sustainable Development Goals (SDG).  It was developed primarily for use with the MESH modelling tool (http://www.naturalcapitalproject.org/mesh/) with funding from Bioversity International and the Natural Capital Project. 
 
 MESH-SDG is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
