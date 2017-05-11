@@ -3,6 +3,9 @@
 ####       May 2017       ####
 ##############################
 
+# Copyright 2017. Jones, S.K., Wood, S.R., Johnson, J.A., DeClerck, F.A. 
+# For further information contact s.jones@cgiar.org
+
 # This tool produces graphs of modelled ecosystem service (ES) supply values under 
 # user-defined scenarios and shows their relevance to attainment of the 
 # Sustainable Development Goals (SDG) and targets 
@@ -13,13 +16,7 @@
 # For documentation on the MESH-SDG tool and guidelines for use, 
 # see https://docs.google.com/document/d/15Oc-p8iw1kw40PFjfW3a1W7GSimoMbvDeRvPlczMqCQ/edit?usp=sharing  
 
-# It is freely available for use by anyone however we ask that 
-# if used in publications, the following citation is used: 
-# Jones, S.K., Wood, S.R., Johnson, J.A., DeClerck, F.A. 2017. MESH-SDG tool. 
-
-wd <- readline() #at the prompt, copy and paste your filepath and press enter
-setwd(wd)
-
+# Import required packages and set workspace
 library("ggplot2")
 library("grid")
 library("data.table")
@@ -27,6 +24,9 @@ library("reshape2")
 library("dplyr")
 library("graphics")
 library("useful")
+
+wd <- readline() #at the prompt, copy and paste your filepath and press enter
+setwd(wd)
 
 ### Import results from your ES model and prepare for input to ES-SDG tool ###
 
