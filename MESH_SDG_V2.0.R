@@ -1,10 +1,7 @@
 ##############################
-####  MESH-SDG Tool V1.0  ####
-####       May 2017       ####
+####  MESH-SDG Tool V2.0  ####
+####       June 2019      ####
 ##############################
-
-# Copyright 2017. Jones, S.K., Wood, S.R., Johnson, J.A., DeClerck, F.A. 
-# For further information contact s.jones@cgiar.org
 
 # This tool produces graphs of modelled ecosystem service (ES) supply values under 
 # user-defined scenarios and shows their relevance to attainment of the 
@@ -15,6 +12,8 @@
 
 # For documentation on the MESH-SDG tool and guidelines for use, 
 # see https://docs.google.com/document/d/15Oc-p8iw1kw40PFjfW3a1W7GSimoMbvDeRvPlczMqCQ/edit?usp=sharing  
+
+# For further information contact s.jones@cgiar.org or sylvie.wood@gmail.com
 
 # Import required packages and set workspace
 library("ggplot2")
