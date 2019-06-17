@@ -1,6 +1,8 @@
 # MESH_SDG V2.0
 
-You are welcome to reuse this code in your work. We would appreciate it if you cite our published paper as the source: Johnson, J.A., Jones, S.K., Wood, S.L.R., Chaplin-Kramer, R., Hawthorne, P.L., Mulligan, M., Pennington, D. & DeClerck F.A. (in review). Mapping Ecosystem Services to Human Well-being: a toolkit to support integrated landscape management for the Sustainable Development Goals.
+Copyright 2017, 2019 Sarah Jones
+
+You are welcome to reuse this code in your work. We would appreciate it if you include a citation to our published paper: Johnson, J.A., Jones, S.K., Wood, S.L.R., Chaplin-Kramer, R., Hawthorne, P.L., Mulligan, M., Pennington, D. & DeClerck F.A. (in review). Mapping Ecosystem Services to Human Well-being: a toolkit to support integrated landscape management for the Sustainable Development Goals.
 
 In addition the base script available in V1.0, MESH_SDG V2.0 generates new SDG graphics and includes instructions on how to change the default values and weightings.
 
